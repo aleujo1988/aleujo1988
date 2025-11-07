@@ -90,9 +90,20 @@ MACYS • WESTPAC BANK • AVIS BUDGET • AMERIPRISE • WHIRLPOOL • AT&T •
 
 ---
 
-### ✨ **Dica Extra**
-Quer deixar seu GitHub ainda mais interativo?  
-Adicione este contador de visitas ao final do README:
+---
 
-```markdown
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=aleujo1988&color=brightgreen)
+## 🧭 **Estatísticas e Extras**
+
+<div align="center">
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=aleujo1988&color=brightgreen&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![Feito no Brasil](https://img.shields.io/badge/🌎-Feito_no_Brasil-009739?style=for-the-badge)
+![Última atualização](https://img.shields.io/github/last-commit/aleujo1988/meu-hub?style=for-the-badge&label=Última+atualização)
+
+</div>
+
+---
+
+⭐ **Dica:** Se você gostou deste perfil, não esqueça de deixar uma estrela em algum repositório!  
+💬 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/abaraujo1988/) para trocar ideias sobre tecnologia e inovação.
+
