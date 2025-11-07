@@ -73,12 +73,13 @@ MACYS • WESTPAC BANK • AVIS BUDGET • AMERIPRISE • WHIRLPOOL • AT&T •
 
 ## 📬 **Contato**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/abaraujo1988/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail)](mailto:araujoalexandre1607@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp)](https://wa.me/5519999891607)  
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Alez1n)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram)](https://www.instagram.com/bianchiniale1988/)  
-[![🌐 Meu Site](https://img.shields.io/badge/-🌐_Portfólio-F7E300?style=flat-square)]([https://alexandrebianchinimd.net/](https://alexandrebianchiniportifolio.com/))  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abaraujo1988/)](https://www.linkedin.com/in/abaraujo1988/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:araujoalexandre1607@gmail.com)](mailto:araujoalexandre1607@gmail.com) 
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5519971616086)](https://wa.me/5519971616086)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/alexandre_araujo)](https://t.me/Alez1n)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)
+[![🌐 Portfólio](https://img.shields.io/badge/-🌐_Visite_meu_Portfólio-F7E300?style=flat-square)](https://alexandrebianchiniportifolio.com/)
+
 
 ---
 
