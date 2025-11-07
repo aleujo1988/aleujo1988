@@ -1,110 +1,102 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=180&section=header&text=👋%20Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=fadeIn)
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=180&section=header&text=Alexandre%20Bianchini%20de%20Araujo%20👨‍💻&fontColor=ffffff&fontSize=28&animation=fadeIn)
 
-# 👨‍💻 **Alexandre Bianchini de Araujo**
+# 👋 Hi there / Olá!
 
-> 💼 Analista de Suporte Computacional • Profissional de TI com experiência em ambientes corporativos de grande porte  
-> 🌱 Apaixonado por tecnologia, automação e evolução constante.  
-
----
-
-## 🚀 **Sobre Mim**
-
-Sou **Analista de Suporte Computacional** com ampla experiência em **ambientes corporativos complexos e críticos**, atuando com **infraestrutura, automação de processos e monitoramento de workloads**.  
-Focado em **qualidade, estabilidade e inovação contínua**, busco aprimorar a performance operacional e contribuir para o crescimento da equipe e da empresa.
-
-### 🧠 **Resumo de Carreira**
-- **TIVIT Tecnologia da Informação SA**  
-  - *Analista de Suporte Computacional* (2024 – presente)  
-  - *IT Coordinator*  
-  - *Scheduler Senior*  
-  - *Production Analyst – Level II*  
-- **IBM Brazil / Kyndryl**  
-  - *Service Integrated Leader* (2021 – 2024)  
-  - *Systems Specialist* (2016 – 2021)  
-
-📁 **Projetos Relevantes:**  
-MACYS • WESTPAC BANK • AVIS BUDGET • AMERIPRISE • WHIRLPOOL • AT&T • BRADESCO • FIDELITY • CPFL • ZURICH • OESP • MARÍTIMA • BANCO ORIGINAL • CIP • SODEXHO • CSN  
+### 💼 IT Support & Workload Automation Specialist  
+📍 São Paulo, Brasil | 🌎 Always learning, always evolving.
 
 ---
 
-## 💼 **Habilidades Técnicas**
+## 🧩 About Me / Sobre Mim
 
-| Categoria | Ferramentas & Tecnologias |
-|------------|--------------------------|
-| **Workload Automation** | ![Control-M](https://img.shields.io/badge/Control--M-UNIX-green?style=flat-square&logo=Linux) ![ESP](https://img.shields.io/badge/ESP-Mainframe-blue?style=flat-square&logo=IBM) ![TWS](https://img.shields.io/badge/TWS-UNIX-orange?style=flat-square&logo=Linux) ![CA Workload](https://img.shields.io/badge/CA-Workload-red?style=flat-square&logo=Broadcom) |
-| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-OS-lightgrey?style=flat-square&logo=Linux) ![zOS](https://img.shields.io/badge/z%2FOS-Mainframe-darkblue?style=flat-square&logo=IBM) |
-| **Aplicações** | ![WebSphere](https://img.shields.io/badge/WebSphere-Application_Server-blue?style=flat-square&logo=IBM) ![SAP](https://img.shields.io/badge/SAP-Enterprise-yellow?style=flat-square&logo=SAP) |
-| **Soft Skills** | Trabalho em equipe • Liderança • Resolução de problemas • Comunicação assertiva |
+🇬🇧 Passionate about technology and process optimization.  
+Specialized in **Workload Automation**, **Job Scheduling**, and **System Integration** across enterprise environments (Control-M, TWS/IWS, SAP, Mainframe).
 
----
-
-## 🎓 **Formação Acadêmica**
-
-🎓 **Gestão de Tecnologia da Informação** – Faculdade Anhembi Morumbi (2016)  
-🎓 **Comunicação em Publicidade** – Faculdade Anhanguera (2010)  
+🇧🇷 Apaixonado por tecnologia e otimização de processos.  
+Especialista em **automação de workload**, **agendamento de jobs** e **integração de sistemas** em ambientes corporativos (Control-M, TWS/IWS, SAP, Mainframe).
 
 ---
 
-## 🌍 **Idiomas**
+## 🚀 Featured Projects / Projetos em Destaque
 
-| Idioma | Nível |
-|--------|--------|
-| 🇧🇷 Português | Nativo |
-| 🇬🇧 Inglês | Proficiência profissional completa |
-| 🇪🇸 Espanhol | Proficiência de trabalho limitada |
-
----
-
-## 🧭 **Mais Sobre Mim**
-
-- 💡 Entusiasta de tecnologia e aprendizado contínuo  
-- 📚 Interessado em automação, IA e inovação digital  
-- ⚙️ Sempre buscando melhorar processos e simplificar rotinas  
-- 🧘 Equilíbrio entre vida profissional e pessoal é essencial para meu desempenho  
+| 🌟 Projeto | 💬 Descrição |
+|-------------|--------------|
+| **Workload Automation Dashboard** | Painel em Python para monitoramento em tempo real de jobs Control-M. |
+| **SAP Job Integrator** | Integração entre SAP e TWS/Control-M via RFC para execução automática de jobs. |
+| **Infra Reports Generator** | Automação de relatórios técnicos e logs operacionais. |
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+## 💡 Technical Skills / Habilidades Técnicas
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleujo1988&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleujo1988&layout=compact&theme=tokyonight)
-
----
-
-## 📬 **Contato**
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abaraujo1988/)](https://www.linkedin.com/in/abaraujo1988/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:araujoalexandre1607@gmail.com)](mailto:araujoalexandre1607@gmail.com) 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/5519971616086)](https://wa.me/5519971616086)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/alexandre_araujo)](https://t.me/Alez1n)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)
-[![🌐 Portfólio](https://img.shields.io/badge/-🌐_Visite_meu_Portfólio-F7E300?style=flat-square)](https://alexandrebianchiniportifolio.com/)
-
+![Control-M](https://img.shields.io/badge/Control--M-Automation-green?style=for-the-badge&logo=BMCSoftware&logoColor=white)
+![TWS/IWS](https://img.shields.io/badge/TWS%2FIWS-Workload-orange?style=for-the-badge&logo=IBM&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-Integration-yellow?style=for-the-badge&logo=SAP&logoColor=white)
+![Mainframe](https://img.shields.io/badge/Mainframe-Operations-blue?style=for-the-badge&logo=IBM&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-System-lightgrey?style=for-the-badge&logo=Linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Scripting-blueviolet?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🎉 **4 FUN**
+## 🎓 Education / Formação
 
-🎮 [**Steam**](https://steamcommunity.com/profiles/76561199652366046/)  
-💬 [**Discord**](https://discord.gg/QJHuqSkB)  
-🎵 [**Spotify**](https://open.spotify.com/user/5hj2lflcv6ep2ydjmq11w6hnk)  
-
----
+🎓 **Information Technology Management** – Faculdade Anhembi Morumbi (2016)  
+🎓 **Advertising and Communication** – Faculdade Anhanguera (2010)
 
 ---
 
-## 🧭 **Estatísticas e Extras**
+## 🌍 Languages / Idiomas
 
-<div align="center">
-
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=aleujo1988&color=brightgreen&style=for-the-badge&label=VISITAS+AO+PERFIL)
-![Feito no Brasil](https://img.shields.io/badge/🌎-Feito_no_Brasil-009739?style=for-the-badge)
-![Última atualização](https://img.shields.io/github/last-commit/aleujo1988/meu-hub?style=for-the-badge&label=Última+atualização)
-
-</div>
+| Language | Level |
+|-----------|--------|
+| 🇧🇷 Portuguese | Native |
+| 🇺🇸 English | Professional proficiency |
+| 🇪🇸 Spanish | Working proficiency |
 
 ---
 
-⭐ **Dica:** Se você gostou deste perfil, não esqueça de deixar uma estrela em algum repositório!  
-💬 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/abaraujo1988/) para trocar ideias sobre tecnologia e inovação.
+## 🧭 Philosophy / Filosofia
 
+🇬🇧 Always evolving through challenges.  
+Focused on continuous learning, quality delivery, and technical excellence.
+
+🇧🇷 Evoluindo constantemente através dos desafios.  
+Focado em aprendizado contínuo, qualidade na entrega e excelência técnica.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleujo1988&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleujo1988&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Contact / Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abaraujo1988/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:araujoalexandre1607@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-F7E300?style=flat-square&logo=About.me&logoColor=black)](https://alexandrebianchiniportifolio.com/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5519999891607)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Alez1n)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)
+
+---
+
+## 🎮 4 Fun
+
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199652366046/)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QJHuqSkB)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/5hj2lflcv6ep2ydjmq11w6hnk)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aleujo1988)
+![Made in Brazil](https://img.shields.io/badge/Made%20in-Brazil-009739?style=flat-square&logo=brave&logoColor=white)
+
+---
+
+🧠 *"Technology is not just what I do — it’s how I think."*  
+💬 *“Tecnologia não é apenas o que faço — é como penso.”*
