@@ -1,121 +1,126 @@
 <!-- Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=180&section=header&text=Alexandre%20Bianchini%20de%20Araujo%20👨‍💻&fontColor=ffffff&fontSize=28&animation=fadeIn)
 
-# 👋 Hi there / Olá!
+<h1 align="center">Sr. IT Support & Workload Automation Specialist 🌐</h1>
 
-### 💼 IT Support & Workload Automation Specialist  
-📍 São Paulo, Brasil | 🌎 Always learning, always evolving.
-
----
-
-## 🧩 About Me / Sobre Mim
-
-🇬🇧 Passionate about technology and process optimization.  
-Specialized in **Workload Automation**, **Job Scheduling**, and **System Integration** across enterprise environments (Control-M, TWS/IWS, SAP, Mainframe).
-
-🇧🇷 Apaixonado por tecnologia e otimização de processos.  
-Especialista em **automação de workload**, **agendamento de jobs** e **integração de sistemas** em ambientes corporativos (Control-M, TWS/IWS, SAP, Mainframe).
+<p align="center">
+📍 São Paulo, Brasil | 🌎 Always learning, always evolving | 💬 Bilingual (PT/EN)
+</p>
 
 ---
 
-## 🚀 Featured Projects / Projetos em Destaque
+## 🧠 About Me / Sobre Mim  
 
-| 🌟 Projeto | 💬 Descrição |
-|-------------|--------------|
-| **Workload Automation Dashboard** | Painel em Python para monitoramento em tempo real de jobs Control-M. |
-| **SAP Job Integrator** | Integração entre SAP e TWS/Control-M via RFC para execução automática de jobs. |
-| **Infra Reports Generator** | Automação de relatórios técnicos e logs operacionais. |
+🇬🇧 Passionate about technology, automation, and reliability in complex IT ecosystems.  
+Focused on **Workload Automation**, **Job Scheduling**, and **System Integration** using Control-M, TWS/IWS, SAP, and Mainframe.  
 
----
-
-## 💡 Technical Skills / Habilidades Técnicas
-
-![Control-M](https://img.shields.io/badge/Control--M-Automation-green?style=for-the-badge&logo=BMCSoftware&logoColor=white)
-![TWS/IWS](https://img.shields.io/badge/TWS%2FIWS-Workload-orange?style=for-the-badge&logo=IBM&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-Integration-yellow?style=for-the-badge&logo=SAP&logoColor=white)
-![Mainframe](https://img.shields.io/badge/Mainframe-Operations-blue?style=for-the-badge&logo=IBM&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-System-lightgrey?style=for-the-badge&logo=Linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Scripting-blueviolet?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Scripting-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+🇧🇷 Apaixonado por tecnologia, automação e confiabilidade em ecossistemas de TI complexos.  
+Focado em **automação de workload**, **agendamento de jobs** e **integração de sistemas** com Control-M, TWS/IWS, SAP e Mainframe.  
 
 ---
 
-## 🏆 Achievements / Destaques Profissionais
+## 🚀 Featured Projects / Projetos em Destaque  
 
-✨ **Key Contributor** in implementing enterprise-level workload automation improvements, reducing job failures by over 30%.  
-🚀 **Led migration** from legacy TWS to IBM Workload Scheduler distributed environments.  
-💬 Recognized for **cross-functional collaboration** and proactive support in production incident management.  
-⚙️ Developed Python-based **automation scripts** improving monitoring efficiency and reporting accuracy.  
+| 🌟 Project | 💬 Description |
+|-------------|----------------|
+| **Workload Automation Dashboard** | Python-based dashboard for real-time job monitoring (Control-M). |
+| **SAP Job Integrator** | Automação entre SAP e TWS/Control-M via RFC. |
+| **Infra Reports Generator** | Scripts de automação para geração de relatórios e logs operacionais. |
 
 ---
 
-## 🎓 Education / Formação
+## ⚙️ Tech Stack / Tecnologias  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,github,git,sap,aws,docker,jenkins,java,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Control--M-Automation-green?style=for-the-badge&logo=BMCSoftware&logoColor=white">
+  <img src="https://img.shields.io/badge/TWS%2FIWS-Workload-orange?style=for-the-badge&logo=IBM&logoColor=white">
+  <img src="https://img.shields.io/badge/Mainframe-Operations-blue?style=for-the-badge&logo=IBM&logoColor=white">
+  <img src="https://img.shields.io/badge/SAP-Integration-yellow?style=for-the-badge&logo=SAP&logoColor=black">
+</p>
+
+---
+
+## 🎓 Education / Formação  
 
 🎓 **Information Technology Management** – Faculdade Anhembi Morumbi (2016)  
 🎓 **Advertising and Communication** – Faculdade Anhanguera (2010)
 
 ---
 
-## 📜 Certifications
+## 🌍 Languages / Idiomas  
 
-🏅 **IBM Certified Advanced Application Developer – Workload Scheduler**  
-🏅 **BMC Certified Control-M Administrator**  
-🏅 **ITIL v4 Foundation Certified**  
-🏅 **Python for Automation – Coursera / Alura**  
-🏅 **SAP Job Management Integration (RFC)**  
-
----
-
-## 🌍 Languages / Idiomas
-
-| Language | Level |
-|-----------|--------|
+| 🌐 Language | 🧩 Level |
+|--------------|----------|
 | 🇧🇷 Portuguese | Native |
 | 🇺🇸 English | Professional proficiency |
 | 🇪🇸 Spanish | Working proficiency |
 
 ---
 
-## 🧭 Philosophy / Filosofia
+## 🪶 Current Status / Status Atual  
 
-🇬🇧 Always evolving through challenges.  
-Focused on continuous learning, quality delivery, and technical excellence.
-
-🇧🇷 Evoluindo constantemente através dos desafios.  
-Focado em aprendizado contínuo, qualidade na entrega e excelência técnica.
+[![Learning](https://img.shields.io/badge/Learning-Python%20Automation-blueviolet?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Collaboration](https://img.shields.io/badge/Open%20for%20Collaboration-00C853?style=for-the-badge&logo=Handshake&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/Focus-Workload%20Automation-orange?style=for-the-badge&logo=BMCSoftware&logoColor=white)](#)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleujo1988&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleujo1988&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aleujo1988&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aleujo1988&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 📬 Contact / Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abaraujo1988/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:araujoalexandre1607@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-F7E300?style=flat-square&logo=About.me&logoColor=black)](https://alexandrebianchiniportifolio.com/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5519999891607)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Alez1n)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aleujo1988&theme=tokyo-night&hide_border=true&radius=10" />
+</p>
 
 ---
 
-## 🎮 4 Fun
+## 🏆 Achievements / Conquistas  
 
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199652366046/)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/QJHuqSkB)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/5hj2lflcv6ep2ydjmq11w6hnk)
+- 💼 **10+ years** in IT & Infrastructure Support  
+- ⚙️ **Expertise in Workload Automation & Scheduling Tools**  
+- 🚀 Strong background with **Control-M, TWS/IWS, SAP, Mainframe**  
+- 🌐 Collaboration with **global enterprise clients** (IBM, TIVIT, CPFL, Zurich, Whirlpool)
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aleujo1988)
-![Made in Brazil](https://img.shields.io/badge/Made%20in-Brazil-009739?style=flat-square&logo=brave&logoColor=white)
+## 📬 Contact / Contato  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abaraujo1988/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:araujoalexandre1607@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://alexandrebianchiniportifolio.com/"><img src="https://img.shields.io/badge/-Portfolio-F7E300?style=for-the-badge&logo=About.me&logoColor=black"></a>
+  <a href="https://wa.me/5519999891607"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://t.me/Alez1n"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+
+---
+
+## 🎮 4 Fun  
+
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561199652366046/"><img src="https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://discord.gg/QJHuqSkB"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/5hj2lflcv6ep2ydjmq11w6hnk"><img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aleujo1988" />
+  <img src="https://img.shields.io/badge/Made%20in-Brazil-009739?style=for-the-badge&logo=brave&logoColor=white" />
+</p>
 
 ---
 
 🧠 *"Technology is not just what I do — it’s how I think."*  
 💬 *“Tecnologia não é apenas o que faço — é como penso.”*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0A66C2&height=120&section=footer)
