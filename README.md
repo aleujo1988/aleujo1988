@@ -1,93 +1,98 @@
-# 👋 Olá! Eu sou o **Alexandre Bianchini de Araujo**
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C853&height=180&section=header&text=👋%20Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=fadeIn)
 
-💼 **Analista de Suporte Computacional na TIVIT Tecnologia da Informação SA**  
-🧠 Apaixonado por tecnologia, automação e pela constante evolução da área de TI.  
-🌎 Sempre buscando novos desafios e aprendizados que unam **inovação e propósito**.
+# 👨‍💻 **Alexandre Bianchini de Araujo**
+
+> 💼 Analista de Suporte Computacional • Profissional de TI com experiência em ambientes corporativos de grande porte  
+> 🌱 Apaixonado por tecnologia, automação e evolução constante.  
 
 ---
 
 ## 🚀 **Sobre Mim**
 
-- **Nome:** Alexandre Bianchini de Araujo  
-- **Cargo Atual:** Analista de Suporte Computacional — **TIVIT Tecnologia da Informação SA**
-- **Experiência Profissional:**
-  - **TIVIT Tecnologia da Informação SA**  
-    - Analista de Suporte Computacional (2024 - presente)  
-    - IT Coordinator  
-    - Scheduler Senior  
-    - Production Analyst – Level II  
-  - **IBM Brazil / Kyndryl**  
-    - Service Integrated Leader (2021 - 2024)  
-    - Systems Specialist (2016 - 2021)
-- **Projetos Notáveis:**  
-  MACYS · WESTPAC BANK · AVIS BUDGET · AMERIPRISE · WHIRLPOOL · AT&T · BRADESCO ·  
-  FIDELITY · CPFL · ZURICH · OESP · MARITIMA · BANCO ORIGINAL · CIP · SODEXHO · CSN  
+Sou **Analista de Suporte Computacional** com ampla experiência em **ambientes corporativos complexos e críticos**, atuando com **infraestrutura, automação de processos e monitoramento de workloads**.  
+Focado em **qualidade, estabilidade e inovação contínua**, busco aprimorar a performance operacional e contribuir para o crescimento da equipe e da empresa.
+
+### 🧠 **Resumo de Carreira**
+- **TIVIT Tecnologia da Informação SA**  
+  - *Analista de Suporte Computacional* (2024 – presente)  
+  - *IT Coordinator*  
+  - *Scheduler Senior*  
+  - *Production Analyst – Level II*  
+- **IBM Brazil / Kyndryl**  
+  - *Service Integrated Leader* (2021 – 2024)  
+  - *Systems Specialist* (2016 – 2021)  
+
+📁 **Projetos Relevantes:**  
+MACYS • WESTPAC BANK • AVIS BUDGET • AMERIPRISE • WHIRLPOOL • AT&T • BRADESCO • FIDELITY • CPFL • ZURICH • OESP • MARÍTIMA • BANCO ORIGINAL • CIP • SODEXHO • CSN  
 
 ---
 
 ## 💼 **Habilidades Técnicas**
 
-| Área | Ferramenta / Tecnologia |
-|------|--------------------------|
-| **Workload Automation** | ![Control-M for UNIX](https://img.shields.io/badge/Control--M-UNIX-green?style=flat-square&logo=Linux&logoColor=white) ![ESP](https://img.shields.io/badge/ESP-Mainframe-blue?style=flat-square&logo=IBM&logoColor=white) ![TWS](https://img.shields.io/badge/TWS-UNIX-orange?style=flat-square&logo=Linux&logoColor=white) ![CA Workload](https://img.shields.io/badge/CA-Workload-red?style=flat-square&logo=Broadcom&logoColor=white) |
-| **Aplicações Corporativas** | ![WebSphere](https://img.shields.io/badge/WebSphere-App_Server-blue?style=flat-square&logo=IBM&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-Enterprise-yellow?style=flat-square&logo=SAP&logoColor=white) |
-| **Sistemas Operacionais** | ![Linux](https://img.shields.io/badge/Linux-OS-lightgrey?style=flat-square&logo=Linux&logoColor=white) ![z/OS](https://img.shields.io/badge/z%2FOS-Mainframe-darkblue?style=flat-square&logo=IBM&logoColor=white) |
+| Categoria | Ferramentas & Tecnologias |
+|------------|--------------------------|
+| **Workload Automation** | ![Control-M](https://img.shields.io/badge/Control--M-UNIX-green?style=flat-square&logo=Linux) ![ESP](https://img.shields.io/badge/ESP-Mainframe-blue?style=flat-square&logo=IBM) ![TWS](https://img.shields.io/badge/TWS-UNIX-orange?style=flat-square&logo=Linux) ![CA Workload](https://img.shields.io/badge/CA-Workload-red?style=flat-square&logo=Broadcom) |
+| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-OS-lightgrey?style=flat-square&logo=Linux) ![zOS](https://img.shields.io/badge/z%2FOS-Mainframe-darkblue?style=flat-square&logo=IBM) |
+| **Aplicações** | ![WebSphere](https://img.shields.io/badge/WebSphere-Application_Server-blue?style=flat-square&logo=IBM) ![SAP](https://img.shields.io/badge/SAP-Enterprise-yellow?style=flat-square&logo=SAP) |
+| **Soft Skills** | Trabalho em equipe • Liderança • Resolução de problemas • Comunicação assertiva |
 
 ---
 
 ## 🎓 **Formação Acadêmica**
 
-🎓 **Gestão de Tecnologia da Informação** — *Faculdade Anhembi Morumbi* (2016)  
-📢 **Comunicação em Publicidade** — *Faculdade Educacional Anhanguera* (2010)
+🎓 **Gestão de Tecnologia da Informação** – Faculdade Anhembi Morumbi (2016)  
+🎓 **Comunicação em Publicidade** – Faculdade Anhanguera (2010)  
 
 ---
 
 ## 🌍 **Idiomas**
 
-| Idioma | Nível de Proficiência |
-|--------|-----------------------|
+| Idioma | Nível |
+|--------|--------|
 | 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Profissional Completo |
-| 🇪🇸 Espanhol | Intermediário / Profissional Limitado |
+| 🇬🇧 Inglês | Proficiência profissional completa |
+| 🇪🇸 Espanhol | Proficiência de trabalho limitada |
 
 ---
 
-## 🎯 **Perfil Pessoal**
+## 🧭 **Mais Sobre Mim**
 
-💡 Apaixonado por tecnologia e sempre em busca de novos desafios.  
-🤝 Aberto a feedbacks construtivos e focado em **autoaperfeiçoamento contínuo**.  
-📚 Equilibra vida profissional e pessoal com **leitura, exercícios e tempo em família**.  
-⚙️ Motivado pela constante evolução do setor de TI e pela **melhoria contínua dos processos**.
-
----
-
-## 📬 **Contato**
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abaraujo1988/)  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:araujoalexandre1607@gmail.com)  
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5519999891607)  
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Alez1n)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/bianchiniale1988/)  
-[![🌐 Meu Site](https://img.shields.io/badge/-🌐_Visite_meu_site-F7E300?style=flat-square)](https://alexandrebianchinimd.net/)
-
----
-
-## 🎉 **4FUN**
-
-🎮 [**Steam**](https://steamcommunity.com/profiles/76561199652366046/)  
-💬 [**Discord**](https://discord.gg/QJHuqSkB)  
-🎵 [**Spotify**](https://open.spotify.com/user/5hj2lflcv6ep2ydjmq11w6hnk)
-
----
-
-## ✨ **Estilo e Inspiração**
-
-> “Organização e constância vencem qualquer talento.”  
-> — *Alexandre B. de Araujo*
+- 💡 Entusiasta de tecnologia e aprendizado contínuo  
+- 📚 Interessado em automação, IA e inovação digital  
+- ⚙️ Sempre buscando melhorar processos e simplificar rotinas  
+- 🧘 Equilíbrio entre vida profissional e pessoal é essencial para meu desempenho  
 
 ---
 
 ## 📊 **Estatísticas do GitHub**
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleujo1988&show_icons=true&theme=tokyonight)  
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleujo1988&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleujo1988&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 **Contato**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/abaraujo1988/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail)](mailto:araujoalexandre1607@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp)](https://wa.me/5519971616086)  
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/Alez1n)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram)](https://www.instagram.com/bianchiniale1988/)  
+[![🌐 Meu Site](https://img.shields.io/badge/-🌐_Portfólio-F7E300?style=flat-square)](https://alexandrebianchinimd.net/)  
+
+---
+
+## 🎉 **4 FUN**
+
+🎮 [**Steam**](https://steamcommunity.com/profiles/76561199652366046/)  
+💬 [**Discord**](https://discord.gg/QJHuqSkB)  
+🎵 [**Spotify**](https://open.spotify.com/user/5hj2lflcv6ep2ydjmq11w6hnk)  
+
+---
+
+### ✨ **Dica Extra**
+Quer deixar seu GitHub ainda mais interativo?  
+Adicione este contador de visitas ao final do README:
+
+```markdown
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=aleujo1988&color=brightgreen)
