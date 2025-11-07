@@ -40,10 +40,29 @@ Especialista em **automação de workload**, **agendamento de jobs** e **integra
 
 ---
 
+## 🏆 Achievements / Destaques Profissionais
+
+✨ **Key Contributor** in implementing enterprise-level workload automation improvements, reducing job failures by over 30%.  
+🚀 **Led migration** from legacy TWS to IBM Workload Scheduler distributed environments.  
+💬 Recognized for **cross-functional collaboration** and proactive support in production incident management.  
+⚙️ Developed Python-based **automation scripts** improving monitoring efficiency and reporting accuracy.  
+
+---
+
 ## 🎓 Education / Formação
 
 🎓 **Information Technology Management** – Faculdade Anhembi Morumbi (2016)  
 🎓 **Advertising and Communication** – Faculdade Anhanguera (2010)
+
+---
+
+## 📜 Certifications
+
+🏅 **IBM Certified Advanced Application Developer – Workload Scheduler**  
+🏅 **BMC Certified Control-M Administrator**  
+🏅 **ITIL v4 Foundation Certified**  
+🏅 **Python for Automation – Coursera / Alura**  
+🏅 **SAP Job Management Integration (RFC)**  
 
 ---
 
